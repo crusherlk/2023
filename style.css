@@ -15,8 +15,6 @@ body {
     background-size: cover;
     background-image: url(images/fireworks-bg.jpg);
     background-position: center;
-    /* background-color: #28282B; */
-    /* background: linear-gradient(to right, #0cebeb, #20e3b2, #29ffc6); */
     position: relative;
     z-index: 1;
 }
